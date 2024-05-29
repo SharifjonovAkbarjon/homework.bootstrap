@@ -1,0 +1,57 @@
+
+.bmw{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+.heading{
+    text-align: center;
+    font-size: 56px;
+    font-weight: 900;
+    color: rgb(124,198,423);
+}
+
+.headingm{
+    text-align: center;
+    font-size: 56px;
+    font-weight: 900;
+    color: rgb(40,90,167);
+}
+
+.headingw{
+    text-align: center;
+    font-size: 56px;
+    font-weight: 900;
+    color: rgb(203,33,47);
+}
+
+.paragraph{
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgba(42, 23, 25, 0.655);
+    margin: 20px;
+}
+
+.world{
+    font-size: 26px;
+    margin: 20px 0 20px 0;
+    color: rgba(36, 30, 27, 0.933);
+    font-weight: 400;
+}
+
+.logo{
+    width: 100px;
+}
+
+.mers{
+    width: 60px;
+}
+
+.footer{
+    display: flex;
+    gap: 100px;
+}
